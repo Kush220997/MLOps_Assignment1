@@ -1,4 +1,4 @@
-# src/train2.py
+# train2.py
 import warnings
 warnings.filterwarnings("ignore")
 
